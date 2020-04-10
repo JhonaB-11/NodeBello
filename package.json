@@ -1,0 +1,26 @@
+{
+  "name": "ejemplo_dos",
+  "version": "1.0.0",
+  "description": "Proyecto Academico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deci" : "cowsay Hola a Todos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonaB-11/NodeBello.git"
+  },
+  "keywords": [
+    "Academico"
+  ],
+  "author": "JhonaB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonaB-11/NodeBello/issues"
+  },
+  "homepage": "https://github.com/JhonaB-11/NodeBello#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
